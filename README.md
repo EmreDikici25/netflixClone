@@ -7,9 +7,6 @@
 - react-redux
 - redux-thunk
 
-Api key :
-9bd968d5337d7cab90788660b761a95b
-
 # Kaynaklar
 
 - API : https://www.themoviedb.org/
@@ -30,4 +27,9 @@ Api key :
 - - Url deki parametreyi al
 - - O parametreyi kullanarak ilgili filmin detay verisini çek.
 - - Api den gelen cevaba göre ekrana bilgileri listele.
+
 # netflixClone
+
+# Ekrean gif i
+
+![](netflixClon.gif)
